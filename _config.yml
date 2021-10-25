@@ -3,4 +3,4 @@ description: This blog is my personal online journal mostly an outlet for techni
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-baseurl: "YCOde"
+baseurl: "/YCOde"
